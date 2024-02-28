@@ -1,11 +1,12 @@
+import { BackgroundImage } from "./components/background"
 
 
 function App() {
 
   return (
-    <>
-     <h1>Hello world!</h1>
-    </>
+    <BackgroundImage>
+      
+    </BackgroundImage>
   )
 }
 
